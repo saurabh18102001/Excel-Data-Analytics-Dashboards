@@ -24,6 +24,9 @@ These projects demonstrate practical use of Excel for transforming raw datasets 
 
 ## 🚗 Road Accident Analysis Dashboard
 
+<img width="1522" height="768" alt="{6621306C-6706-4CFE-BB17-61AE1C060E8A}" src="https://github.com/user-attachments/assets/a2691e5c-2eb5-436c-a028-601012b962e7" />
+
+
 An interactive Excel dashboard built to analyze road accident data and identify patterns across different dimensions.
 
 ### Key Analysis
@@ -54,6 +57,9 @@ An interactive Excel dashboard built to analyze road accident data and identify 
 ---
 
 ## ☕ Coffee Shop Sales Analysis
+
+<img width="1853" height="657" alt="{A5FE589F-48D7-4FAD-9F56-CC5F6D042E09}" src="https://github.com/user-attachments/assets/c7cf5c44-d09c-4c2b-8295-3604dcc85187" />
+
 
 An Excel-based sales analysis project focused on understanding coffee shop sales performance and identifying useful business trends.
 
